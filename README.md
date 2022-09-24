@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kubilay Cakmak</h1>
-<h3 align="center">Full‐stack web developer with a passion for solving highly technical problems and improving algorithms. The skill of tackling large obstacles and breaking them down into small, manageable goals led me to coding. I believe that my passion for web development and my skills in problem solving would make me a great asset to your team.</h3>
+<h3 align="start">Full‐stack web developer with a passion for solving highly technical problems and improving algorithms. The skill of tackling large obstacles and breaking them down into small, manageable goals led me to coding. I believe that my passion for web development and my skills in problem solving would make me a great asset to your team.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kubilaycakmak&label=Profile%20views&color=0e75b6&style=flat" alt="kubilaycakmak" /> </p>
 
